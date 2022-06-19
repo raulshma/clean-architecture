@@ -1,9 +1,8 @@
+using DSU.Domain.Entities;
+
 namespace DSU.Application.Services.Authentication;
 public record AuthenticationResult
 {
-  public Guid Id { get; set; }
-  public string FirstName { get; set; }
-  public string LastName { get; set; }
-  public string Email { get; set; }
+  public User User { get; init; }
   public string Token { get; set; }
 }
