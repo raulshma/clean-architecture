@@ -1,0 +1,12 @@
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\bin\Debug\net6.0\DSU.Infrastructure.deps.json
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\bin\Debug\net6.0\DSU.Infrastructure.dll
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\bin\Debug\net6.0\DSU.Infrastructure.pdb
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\DSU.Infrastructure.csproj.AssemblyReference.cache
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\DSU.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\DSU.Infrastructure.AssemblyInfoInputs.cache
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\DSU.Infrastructure.AssemblyInfo.cs
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\DSU.Infrastructure.csproj.CoreCompileInputs.cache
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\DSU.Infrastructure.dll
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\refint\DSU.Infrastructure.dll
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\DSU.Infrastructure.pdb
+C:\FastCoding\SIDE_PROJECTS\DOTNET\DOTNET\DSU\DSU.Infrastructure\obj\Debug\net6.0\ref\DSU.Infrastructure.dll
